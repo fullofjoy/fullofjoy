@@ -15,7 +15,7 @@
 
 A specialized suite of zero-telemetry, zero-GPU-overhead browser utilities engineered for modern AI creators and software engineers:
 
-- **[PaceBowl Studio Portal](https://pacebowl.com/)** — Central hub and engineering runbooks.
+- **[PaceBowl Studio Portal](https://pacebowl.com/)** — Central mothership hub & engineering runbooks.
 - **[ComfyUI Prompt & Latent Studio](https://comfy.pacebowl.com/)** — Flux.1 T5-XXL natural language prompt composer and trained 1MP Empty Latent calculator (prevents CUDA OOM).
   - 📖 *Guide: [ComfyUI Empty Latent Resolution Guide (1MP Buckets)](https://comfy.pacebowl.com/blog/comfyui-empty-latent-resolution-guide)*
   - 📖 *Guide: [Flux.1 Prompting: Mastering T5 Natural Language](https://comfy.pacebowl.com/blog/flux-prompting-guide-t5-natural-language)*
@@ -25,9 +25,9 @@ A specialized suite of zero-telemetry, zero-GPU-overhead browser utilities engin
 
 ---
 
-## 🧶 AeternaCraft Studio — Handcraft & Crochet Utilities
+## 🧶 AeternaCraft Studio — Handcraft & Crochet Platforms
 
-Free, dedicated math calculators and converter utilities helping fiber artists and crocheters worldwide:
+Dedicated mathematical calculators and conversion utilities helping fiber artists and crocheters worldwide:
 
 - **[AeternaCraft Platform](https://aeternacraft.com/)** — Free crochet tools, 100% free with no signup required.
 - **[Amigurumi Sizing Calculator](https://aeternacraft.com/tools/amigurumi-calculator/)** — Resize any 3D crochet pattern with linear and cubic scaling math.
@@ -36,17 +36,24 @@ Free, dedicated math calculators and converter utilities helping fiber artists a
 
 ---
 
-## 🚀 Projects & Open Source
+## 💻 Open Source Repositories
 
-- **[cursor-rules-generator](https://github.com/fullofjoy/cursor-rules-generator)** — Modern multi-file Cursor .mdc rules builder.
-- **[comfyui-prompt-studio](https://github.com/fullofjoy/comfyui-prompt-studio)** — ComfyUI & Flux.1 prompt studio and resolution calculator.
-- **[coee](https://github.com/fullofjoy/coee)** — AeternaCraft crochet & amigurumi tools platform.
-- **[amielove](https://github.com/fullofjoy/amielove)** — AI Virtual Companion project.
+Public developer utilities open for code auditing, community contributions, and starring:
+
+- **[cursor-rules-generator](https://github.com/fullofjoy/cursor-rules-generator)** — Client-side multi-file `.cursor/rules/*.mdc` rules generator.
+- **[comfyui-prompt-studio](https://github.com/fullofjoy/comfyui-prompt-studio)** — 0-VRAM ComfyUI prompt studio and 1MP latent aspect ratio calculator.
 
 ---
 
-## 📈 Star History
+## 🔬 Experimental Labs (In Private Development)
 
-<a href="https://star-history.com/#fullofjoy/cursor-rules-generator&fullofjoy/comfyui-prompt-studio&fullofjoy/coee&Date">
-  <img src="https://api.star-history.com/svg?repos=fullofjoy/cursor-rules-generator,fullofjoy/comfyui-prompt-studio,fullofjoy/coee&type=Date" alt="Star History">
+- **AeternaCraft Engine (coee)** — Headless e-commerce & pattern generation engine powering [AeternaCraft.com](https://aeternacraft.com).
+- **AmieLove** — Next-generation empathetic AI Virtual Companion architecture.
+
+---
+
+## 📈 Open Source Star History
+
+<a href="https://star-history.com/#fullofjoy/cursor-rules-generator&fullofjoy/comfyui-prompt-studio&Date">
+  <img src="https://api.star-history.com/svg?repos=fullofjoy/cursor-rules-generator,fullofjoy/comfyui-prompt-studio&type=Date" alt="Star History">
 </a>
