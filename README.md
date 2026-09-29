@@ -1,30 +1,52 @@
-# 🧶 AeternaCraft Tools
+# Hi, I'm MrJJ (@fullofjoy) 👋
 
-Hi, I'm fullofjoy! 👋 I'm building free crochet and amigurumi tools to help makers worldwide.
+> **Serial Indie Maker & Full-Stack Builder**  
+> Crafting zero-friction, 100% client-side micro-tools for AI creators, developers, and global makers.
 
-## Tools
-
-- [Amigurumi Sizing Calculator](https://aeternacraft.com/tools/amigurumi-calculator/) — Resize any pattern up or down with linear or cubic math
-- [Yarn Weight Converter](https://aeternacraft.com/tools/yarn-converter/) — Convert between yarn weights and needle sizes
-- [Hook Size Chart](https://aeternacraft.com/tools/hook-size-chart/) — Convert hook sizes across US, UK, metric systems
-
-## About
-
-[AeternaCraft](https://aeternacraft.com) is a free crochet tools platform. All tools are 100% free, no signup required.
-
-<a href="https://aeternacraft.com/tools/amigurumi-calculator/">
-  <img src="https://img.shields.io/badge/Free%20Tool-Amigurumi%20Calculator-brightgreen?style=for-the-badge" alt="Amigurumi Calculator">
-</a>
-
-## Projects
-
-- [coee](https://github.com/fullofjoy/coee) — Crochet & amigurumi tools platform (this repo)
-- [amielove](https://github.com/fullofjoy/amielove) — AI Virtual Companion project
+<p align="left">
+  <a href="https://pacebowl.com"><img src="https://img.shields.io/badge/PaceBowl-AI%20%26%20Dev%20Tools-0284c7?style=for-the-badge&logo=cloudflare&logoColor=white" alt="PaceBowl Studio"></a>
+  <a href="https://aeternacraft.com"><img src="https://img.shields.io/badge/AeternaCraft-Crochet%20Tools-e11d48?style=for-the-badge&logo=yarn&logoColor=white" alt="AeternaCraft"></a>
+  <img src="https://img.shields.io/badge/Hosted%20on-Cloudflare%20Pages-f38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages">
+</p>
 
 ---
 
-_Made with ❤️ for crocheters_
+## ⚡ PaceBowl Studio — AI & Developer Power Tools
 
-<a href="https://aeternacraft.com/tools/amigurumi-calculator/">
-  <img src="https://api.star-history.com/svg?repos=fullofjoy/coee&type=Date" alt="Star History">
+A specialized suite of zero-telemetry, zero-GPU-overhead browser utilities engineered for modern AI creators and software engineers:
+
+- **[PaceBowl Studio Portal](https://pacebowl.com/)** — Central hub and engineering runbooks.
+- **[ComfyUI Prompt & Latent Studio](https://comfy.pacebowl.com/)** — Flux.1 T5-XXL natural language prompt composer and trained 1MP Empty Latent calculator (prevents CUDA OOM).
+  - 📖 *Guide: [ComfyUI Empty Latent Resolution Guide (1MP Buckets)](https://comfy.pacebowl.com/blog/comfyui-empty-latent-resolution-guide)*
+  - 📖 *Guide: [Flux.1 Prompting: Mastering T5 Natural Language](https://comfy.pacebowl.com/blog/flux-prompting-guide-t5-natural-language)*
+- **[Cursor Rules Generator (.mdc)](https://cursor.pacebowl.com/)** — Modular, path-scoped `.cursor/rules/*.mdc` generator with YAML frontmatter for Next.js 15, FastAPI, and Supabase.
+  - 📖 *Guide: [Cursor Rules (.mdc) vs .cursorrules Migration Guide](https://cursor.pacebowl.com/blog/cursor-rules-mdc-vs-cursorrules)*
+  - 📖 *Guide: [How to Write Bulletproof Cursor Rules for Next.js 15](https://cursor.pacebowl.com/blog/how-to-write-nextjs-15-cursor-rules)*
+
+---
+
+## 🧶 AeternaCraft Studio — Handcraft & Crochet Utilities
+
+Free, dedicated math calculators and converter utilities helping fiber artists and crocheters worldwide:
+
+- **[AeternaCraft Platform](https://aeternacraft.com/)** — Free crochet tools, 100% free with no signup required.
+- **[Amigurumi Sizing Calculator](https://aeternacraft.com/tools/amigurumi-calculator/)** — Resize any 3D crochet pattern with linear and cubic scaling math.
+- **[Yarn Weight Converter](https://aeternacraft.com/tools/yarn-converter/)** — Accurate conversion across standard yarn weights and needle gauges.
+- **[Hook Size Chart](https://aeternacraft.com/tools/hook-size-chart/)** — Cross-reference metric, US, and UK crochet hook sizes.
+
+---
+
+## 🚀 Projects & Open Source
+
+- **[cursor-rules-generator](https://github.com/fullofjoy/cursor-rules-generator)** — Modern multi-file Cursor .mdc rules builder.
+- **[comfyui-prompt-studio](https://github.com/fullofjoy/comfyui-prompt-studio)** — ComfyUI & Flux.1 prompt studio and resolution calculator.
+- **[coee](https://github.com/fullofjoy/coee)** — AeternaCraft crochet & amigurumi tools platform.
+- **[amielove](https://github.com/fullofjoy/amielove)** — AI Virtual Companion project.
+
+---
+
+## 📈 Star History
+
+<a href="https://star-history.com/#fullofjoy/cursor-rules-generator&fullofjoy/comfyui-prompt-studio&fullofjoy/coee&Date">
+  <img src="https://api.star-history.com/svg?repos=fullofjoy/cursor-rules-generator,fullofjoy/comfyui-prompt-studio,fullofjoy/coee&type=Date" alt="Star History">
 </a>
