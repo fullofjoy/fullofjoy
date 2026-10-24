@@ -4,11 +4,24 @@
 > Crafting zero-friction, 100% client-side micro-tools for AI creators, developers, and global makers.
 
 <p align="left">
+  <a href="https://atelierpouch.com"><img src="https://img.shields.io/badge/Atelier%20Pouch-Jewelry%20Packaging-C5A059?style=for-the-badge&logo=shopify&logoColor=white" alt="Atelier Pouch Studio"></a>
   <a href="https://amielove.me"><img src="https://img.shields.io/badge/AmieLove-AI%20Video%20Studio-f43f5e?style=for-the-badge&logo=youtube&logoColor=white" alt="AmieLove AI Video Studio"></a>
   <a href="https://pacebowl.com"><img src="https://img.shields.io/badge/PaceBowl-AI%20%26%20Dev%20Tools-0284c7?style=for-the-badge&logo=cloudflare&logoColor=white" alt="PaceBowl Studio"></a>
   <a href="https://aeternacraft.com"><img src="https://img.shields.io/badge/AeternaCraft-Crochet%20Tools-e11d48?style=for-the-badge&logo=yarn&logoColor=white" alt="AeternaCraft"></a>
   <img src="https://img.shields.io/badge/Hosted%20on-Cloudflare%20Pages-f38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages">
 </p>
+
+---
+
+## 💎 Atelier Pouch Studio — Luxury Jewelry Packaging & Low-MOQ Manufacturing
+
+A factory-direct custom packaging platform engineered specifically for independent jewelry designers, bench jewelers, and boutique DTC fine jewelry brands:
+
+- **[Atelier Pouch Studio (atelierpouch.com)](https://atelierpouch.com/)** — Bespoke microfiber suede & Italian velvet pouches with instant 3D configurator and real-time wholesale pricing calculator.
+- **[Microfiber Pouches Wholesale](https://atelierpouch.com/microfiber-pouches)** — 320 GSM anti-tarnish composite microfiber snap pouches with CNC blind deboss or metallic gold/silver foil stamping.
+- **[Italian Velvet Drawstring Pouches](https://atelierpouch.com/velvet-pouches)** — Luxury double-drawstring plush velvet gift bags with champagne ribbon and custom branding (Low MOQ 50 pcs, $0 mold fee).
+- **[Sample Swatch Kit](https://atelierpouch.com/swatch-kit)** — Physical touch-and-feel sample pack with all fabric swatches and stamping foil tests delivered via DDP air express.
+- 📖 *Industry Guides: [Custom Jewelry Pouches for Etsy Sellers](https://atelierpouch.com/blog/custom-jewelry-pouches-for-etsy-sellers) | [Jewelry Pouch Size Guide](https://atelierpouch.com/blog/jewelry-pouch-size-guide) | [Microfiber vs Velvet Packaging Guide](https://atelierpouch.com/blog/microfiber-vs-velvet-jewelry-pouches)*
 
 ---
 
@@ -61,6 +74,7 @@ Public developer utilities open for code auditing, community contributions, and 
 
 ## 🔬 Experimental Labs (In Private Development)
 
+- **[Atelier Pouch Studio (Production)](https://atelierpouch.com)** — Factory-direct low-MOQ bespoke jewelry packaging and real-time 3D price calculator.
 - **AeternaCraft Engine (coee)** — Headless e-commerce & pattern generation engine powering [AeternaCraft.com](https://aeternacraft.com).
 - **[AmieLove Studio (Production)](https://amielove.me)** — Multi-image emotional photo-to-video studio on Cloudflare Workers & Kling 1.6.
 
