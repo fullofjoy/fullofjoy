@@ -4,10 +4,24 @@
 > Crafting zero-friction, 100% client-side micro-tools for AI creators, developers, and global makers.
 
 <p align="left">
+  <a href="https://amielove.me"><img src="https://img.shields.io/badge/AmieLove-AI%20Video%20Studio-f43f5e?style=for-the-badge&logo=youtube&logoColor=white" alt="AmieLove AI Video Studio"></a>
   <a href="https://pacebowl.com"><img src="https://img.shields.io/badge/PaceBowl-AI%20%26%20Dev%20Tools-0284c7?style=for-the-badge&logo=cloudflare&logoColor=white" alt="PaceBowl Studio"></a>
   <a href="https://aeternacraft.com"><img src="https://img.shields.io/badge/AeternaCraft-Crochet%20Tools-e11d48?style=for-the-badge&logo=yarn&logoColor=white" alt="AeternaCraft"></a>
   <img src="https://img.shields.io/badge/Hosted%20on-Cloudflare%20Pages-f38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages">
 </p>
+
+---
+
+## 🎬 AmieLove AI Video Studio — Generative Video & Family Keepsakes
+
+An emotional & restorative photo-to-video AI suite turning static portraits into 1080p HD living video keepsakes with zero subscription traps:
+
+- **[AmieLove AI Video Studio (amielove.me)](https://amielove.me/)** — Central AI video studio & one-time passes ($6.99).
+- **[AI Hug Video Generator](https://amielove.me/ai-hug-video)** — Turn two separate solo photos into a warm, lifelike embrace video using Kling 1.6 Elements.
+- **[Animate Old Photos AI](https://amielove.me/animate-old-photos)** — Restore and animate vintage black-and-white family portraits with natural smiles and lifelike breathing.
+- **[Rainbow Bridge Pet Memorial Video](https://amielove.me/ai-pet-memorial)** — Warm reunion hug videos with late dogs and cats.
+- **[AI 3D Action Figure Video](https://amielove.me/ai-action-figure-video)** — Viral 3D blister-pack toy box unboxing video generator.
+- 📖 *Guides & Comparisons: [2026 AI Video Tutorials & No-Subscription Comparisons](https://amielove.me/guides)*
 
 ---
 
@@ -48,7 +62,7 @@ Public developer utilities open for code auditing, community contributions, and 
 ## 🔬 Experimental Labs (In Private Development)
 
 - **AeternaCraft Engine (coee)** — Headless e-commerce & pattern generation engine powering [AeternaCraft.com](https://aeternacraft.com).
-- **AmieLove** — Next-generation empathetic AI Virtual Companion architecture.
+- **[AmieLove Studio (Production)](https://amielove.me)** — Multi-image emotional photo-to-video studio on Cloudflare Workers & Kling 1.6.
 
 ---
 
