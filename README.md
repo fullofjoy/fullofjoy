@@ -25,15 +25,18 @@ A factory-direct custom packaging platform engineered specifically for independe
 
 ---
 
-## 🎬 AmieLove AI Video Studio — Generative Video & Family Keepsakes
+## 🎬 AmieLove AI Video Studio — Generative Video, Holiday & Family Keepsakes
 
-An emotional & restorative photo-to-video AI suite turning static portraits into 1080p HD living video keepsakes with zero subscription traps:
+An emotional & viral photo-to-video AI suite turning static portraits into 1080p HD living videos in 45s with zero subscription traps:
 
 - **[AmieLove AI Video Studio (amielove.me)](https://amielove.me/)** — Central AI video studio & one-time passes ($6.99).
-- **[AI Hug Video Generator](https://amielove.me/ai-hug-video)** — Turn two separate solo photos into a warm, lifelike embrace video using Kling 1.6 Elements.
+- **[AI Hug Video Generator](https://amielove.me/ai-hug-video)** — Turn two separate solo photos into a warm, lifelike 16:9 embrace video using Kling 1.6 Elements.
 - **[Animate Old Photos AI](https://amielove.me/animate-old-photos)** — Restore and animate vintage black-and-white family portraits with natural smiles and lifelike breathing.
+- **[AI Christmas Dance Video Generator](https://amielove.me/christmas-dance-ai-video)** — Dress 1–2 people (or pets) in cozy holiday pajamas dancing beside a glowing Christmas tree in native 9:16 HD.
+- **[Santa Caught on Camera AI](https://amielove.me/santa-caught-on-camera-ai)** — Turn a real living room or tree photo into realistic night-vision security cam proof of Santa leaving gifts.
+- **[Hand of God ("God Picked Me Up") AI Video](https://amielove.me/hand-of-god-ai-video)** — Giant glowing golden hands descend from parting clouds to lift you or your pet skyward in 9:16 HD.
+- **[Midnight Fridge POV Raid AI Video](https://amielove.me/fridge-pov-ai-video)** — Viral inside-the-fridge 9:16 comedy video catching you or your pet raiding dessert at 2 AM.
 - **[Rainbow Bridge Pet Memorial Video](https://amielove.me/ai-pet-memorial)** — Warm reunion hug videos with late dogs and cats.
-- **[AI 3D Action Figure Video](https://amielove.me/ai-action-figure-video)** — Viral 3D blister-pack toy box unboxing video generator.
 - 📖 *Guides & Comparisons: [2026 AI Video Tutorials & No-Subscription Comparisons](https://amielove.me/guides)*
 
 ---
